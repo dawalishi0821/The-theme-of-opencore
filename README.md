@@ -20,7 +20,7 @@ Some homemade OC theme sharing
         <td><img src='https://raw.githubusercontent.com/dawalishi0821/The-theme-of-opencore/main/The_Wandering_Earth.png'></td>
         <td>The_Wandering_Earth</td>
         <td>A Chinese science fiction movie called "The Wandering Earth" has great special effects and is shocking. So I made it the theme.</td>
-        <td><a href='https://github.com/dawalishi0821/The-theme-of-opencore/releases/download/opencore/he_Wandering_Earth.zip' target='_blank'>The_Wandering_Earth</a></td>
+        <td><a href='https://github.com/dawalishi0821/The-theme-of-opencore/releases/download/opencore/The_Wandering_Earth.zip' target='_blank'>The_Wandering_Earth</a></td>
     </tr>
     <tr>
         <td><img src='https://raw.githubusercontent.com/dawalishi0821/The-theme-of-opencore/main/Red.png'></td>
