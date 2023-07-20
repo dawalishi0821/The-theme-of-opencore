@@ -13,7 +13,7 @@ Some homemade OC theme sharing
     <tr>
         <td><img src='https://raw.githubusercontent.com/dawalishi0821/The-theme-of-opencore/main/GoldenGate+.png'></td>
         <td>GoldenGate+</td>
-        <td>The upgraded version of GoldenGate has added icons from Macros 10.7 to 14</td>
+        <td>The upgraded version of GoldenGate has added icons from Macos 10.7 to 14</td>
         <td><a href='https://github.com/dawalishi0821/The-theme-of-opencore/releases/download/opencore/GoldenGate+.zip' target='_blank'>GoldenGate+</a></td>
     </tr>
     <tr>
