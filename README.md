@@ -10,3 +10,6 @@ The_Wandering_Earth
 
 Red
 ![image](https://raw.githubusercontent.com/dawalishi0821/The-theme-of-opencore/main/Red.png)
+
+Star_Rail
+![image](https://raw.githubusercontent.com/dawalishi0821/The-theme-of-opencore/main/Star_Rail.png)
