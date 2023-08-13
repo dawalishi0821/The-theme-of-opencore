@@ -2,7 +2,7 @@ The-theme-of-opencore
 ===
 Some homemade OC theme sharing
 #
-Homemade
+Homemade OC Theme
 ===
 | Style | Name | Introduce | Download |
 |-|-|-|-|
